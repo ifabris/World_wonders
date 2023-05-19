@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "166253868745",
+    "project_id": "wondersapp-e8957",
+    "storage_bucket": "wondersapp-e8957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166253868745:android:16bb7de7261c3cf32fbf18",
+        "android_client_info": {
+          "package_name": "hr.algebra.world_wonders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166253868745-8nqf44hg6pkaartplp0l17t205fgta8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hr.algebra.world_wonders",
+            "certificate_hash": "41d7e54c972ac5df22e344066a6c6603dd824822"
+          }
+        },
+        {
+          "client_id": "166253868745-ge8tkl9vb2fjol2bqnlpt3b8k44rkcik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZvZWsviWvs2mTQNvB8k2BtWyUOW47b9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166253868745-ge8tkl9vb2fjol2bqnlpt3b8k44rkcik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
